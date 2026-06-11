@@ -12,10 +12,8 @@
 - 📱 Android Developer
 - ☕ Strong in Java & Kotlin
 - 🔥 Firebase Integration
-- 💉 Creator of DonateLife App
-- 📚 Building ScholarHub App
 - 🌱 Currently Learning Flutter
-- 🎯 Goal: Become Senior Android Engineer
+- 🎯 Goal: Become Software Engineer
 
 ## 🚀 Tech Stack
 
@@ -32,12 +30,3 @@
 
 </p>
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAsifAhmad&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsifAhmad&layout=compact)
-
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
