@@ -3,7 +3,7 @@
 <h3 align="center">Android Developer | Java | Kotlin | Firebase</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Android+Developer;Java+%7C+Kotlin+Developer;Firebase+Enthusiast;Building+ScholarHub+App" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Android+Developer;Java+%7C+Kotlin+Developer;Firebase+Enthusiast;" />
 </p>
 
 
@@ -11,7 +11,15 @@
 
 - 📱 Android Developer
 - ☕ Strong in Java & Kotlin
-- 🔥 Firebase Integration
+- 🏗️ MVVM Architecture
+- 🔥 Firebase Authentication, Firestore & Storage
+- 🌐 REST APIs Integration with Retrofit
+- 💉 Dependency Injection using Hilt & Dagger
+- 🗄️ Room Database
+- 📋 RecyclerView & Custom Adapters
+- 🎨 Material Design UI/UX
+- 🔄 LiveData & ViewModel
+- 🛠️ Git & GitHub
 - 🌱 Currently Learning Flutter
 - 🎯 Goal: Become Software Engineer
 
